@@ -5,7 +5,7 @@
 }
 
 body {
-    background: linear-gradient(#00ffbb 0%, #ff00a2 100%);
+    background: linear-gradient(#00ffbb 0%, #f52cf5 100%);
     margin: 0;
     padding-top: 800px;
     text-align: center;
@@ -87,4 +87,7 @@ a{
 }
 .article:hover{
     color: aquamarine;
+}
+img{
+    width: 200px;
 }
